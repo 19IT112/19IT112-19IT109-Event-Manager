@@ -1,4 +1,4 @@
-# event
+# eventmanagment
 
 A new Flutter project.
 
