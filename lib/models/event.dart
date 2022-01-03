@@ -6,11 +6,11 @@ import 'package:intl/intl.dart';
 class Event with ChangeNotifier {
   String? id;
   String title;
-  DateTime dateTime;
+  DateTime dateTime ;
   String location;
   String description;
   String docid;
-  DateTime selectTime;
+  DateTime selectTime ; //This is time
 
   Event({
     required this.id,
